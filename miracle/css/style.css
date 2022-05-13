@@ -1,3 +1,8 @@
+/* 
+开发者："凯"
+全局性项目||所有html除特殊文件外所有文件都需要加载
+*/
+
 * {
     margin: 0px;
     padding: 0px;
@@ -6,6 +11,11 @@
 
 html,
 body {
-    height: 100px;
-    width: 100px;
+    height: 100%;
+    width: 100%;
+}
+
+#hemo {
+    width: 100%;
+    width: 100%;
 }
