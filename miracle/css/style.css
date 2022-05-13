@@ -1,0 +1,11 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: "KaiTi";
+}
+
+html,
+body {
+    height: 100px;
+    width: 100px;
+}
