@@ -31,6 +31,7 @@ li {
     box-shadow: 0.6px 4.5px 10px rgb(0 0 0 / 52%), 5px 36px 80px rgb(0 0 0 / 26%);
     background-image: linear-gradient(to right top, rgba(255, 255, 255, 0.244), rgba(255, 255, 255, 0.166));
     width: 15%;
+    overflow: hidden;
     height: 10.5em;
     display: flex;
     border-radius: 16px;
