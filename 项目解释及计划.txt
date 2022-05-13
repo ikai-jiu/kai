@@ -1,2 +1,8 @@
-to->配置根主文件
-miracle->个人网站根文件
+SOURCE-CODE->本地根目录:原[源代码]{
+    index.html->主网页
+    to->配置根主文件
+    miracle->个人网站根文件->{
+        index.html->文件属于<SOURCE_CODE:kai>的主网页待更新文件
+    }
+    data->数据根文件->data-(跟数据来源)
+}
