@@ -1,0 +1,20 @@
+/* 
+开发者："凯"
+文件类型："模块类"
+作用："在html网页做样式"
+是否可以作用于多网页："否"
+主作用文件：[SOURCE_CODE/miracle/html/special_documents.html]
+条件："只作用于[special_documents.html]文件"
+*/
+
+body {
+    background-image: url("/data-img/background.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+h1 {
+    background-color: rgba(158, 158, 158, 0.17);
+    color: rgba(5, 2, 0, 0.8);
+}

@@ -38,6 +38,10 @@ li {
     align-items: center;
 }
 
+.card_1:hover {
+    overflow: auto;
+}
+
 
 /* 卡片效果2 */
 
