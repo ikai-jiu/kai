@@ -36,6 +36,11 @@ new Vue({
         special_fileType: "网站文件",
         special_effect: "收集网站特殊文件并整理资料",
         special_filePath: "网站本地路径:/miracle/html/special_documents.html:URL('https://ikai-jiu.github.io/kai/miracle/html/special_documents.html')",
-
+        //es||工具使用
+        es6: "ES6",
+        es6_fileType: "脚本文件夹",
+        es6_effect: "es6转换",
+        es6_filePath: "本地地址：/to/es6",
+        es6_KTS: "本目录下子文件[dist]是输出文件,[list]是原文件,这两个子文件可以遵循js文件规则",
     }
 })
