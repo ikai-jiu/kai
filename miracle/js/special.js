@@ -6,6 +6,7 @@
 Vue.config.productionTip = false;
 new Vue({
     el: "#hemo",
+    URL: "https://kai-jiu",
     data: {
         //特殊文件用文件简写代替文件名
         fileName: "文件名：",
